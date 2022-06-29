@@ -10,15 +10,15 @@ input{
     border: 5px solid black;
     font-size: 34px;
     border-radius: 10px;
-    width: 420px;
+    width: 300px;
     height: 60px;
 
 }
 button{
     font-size: 40px;
     background:#978fa0 ;
-    width: 90px;
-    height: 80px;
+    width: 70px;
+    height: 60px;
     border: 3px solid black;
     border-radius: 20px;
     margin: 3px;
@@ -28,7 +28,7 @@ button{
     display: inline-block;
     background-color: #ff99f7;
     border-radius: 53px;
-    padding: 23px;
+    padding: 25px;
 }
 h1{
     font-size: 50px;
